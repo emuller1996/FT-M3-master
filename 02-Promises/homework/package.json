@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "test": "jest *.spec.js",
+    "test": "jest exercise.two.spec.js",
     "grade": "jest --useStderr --json --outputFile=./result.json"
   },
   "author": "",
